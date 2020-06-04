@@ -1,0 +1,67 @@
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.runtimeconfig.json
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.runtimeconfig.dev.json
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.dll
+D:\Udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.pdb
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csprojAssemblyReference.cache
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfoInputs.cache
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfo.cs
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CoreCompileInputs.cache
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.Manifest.cache
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.xml
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
+D:\Udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.genruntimeconfig.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.runtimeconfig.json
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.runtimeconfig.dev.json
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.pdb
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csprojAssemblyReference.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfoInputs.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfo.cs
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CoreCompileInputs.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.Manifest.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.xml
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.genruntimeconfig.cache
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
