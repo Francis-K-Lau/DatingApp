@@ -65,3 +65,8 @@ D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtime
 D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

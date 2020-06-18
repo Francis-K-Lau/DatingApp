@@ -1,0 +1,5 @@
+.vccode
+bin
+obj
+*.db
+apppsettings.json

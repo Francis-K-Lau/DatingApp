@@ -31,6 +31,8 @@ namespace DatingApp.API
                 Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
             services.AddCors();
+            //one service per request, it is between singleton and Transient
+            services.AddScoped<IAuthRepository,AuthRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
