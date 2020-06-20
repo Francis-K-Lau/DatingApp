@@ -22,6 +22,7 @@ namespace DatingApp.API.Controllers
         }
 
         // GET api/values
+        [AllowAnonymous]
         [HttpGet]
         // public IActionResult GetValues()
         // {
@@ -50,7 +51,8 @@ namespace DatingApp.API.Controllers
         {
         }
 
-        // PUT api/values/5
+        // PUT api/values/
+        [AllowAnonymous]
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
