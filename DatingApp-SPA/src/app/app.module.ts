@@ -4,6 +4,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { JwtModule } from '@auth0/angular-jwt';
+import { NgxGalleryModule } from 'ngx-gallery-9';
 
 import { AppComponent } from './app.component';
 import { from } from 'rxjs';
@@ -57,7 +58,8 @@ export function tokenGetter() {
             whitelistedDomains: ['localhost:5000'],
             blacklistedRoutes: ['localhost:500/api/auth']
          }
-      })
+      }),
+      NgxGalleryModule
    ],
    providers: [
       AuthService,
