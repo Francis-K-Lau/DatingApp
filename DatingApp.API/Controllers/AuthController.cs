@@ -9,6 +9,7 @@ using System.Text;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.IdentityModel.Tokens.Jwt;
+using AutoMapper;
 
 namespace DatingApp.API.Controllers
 {
@@ -19,15 +20,16 @@ namespace DatingApp.API.Controllers
     {
         private readonly IAuthRepository _repo;
         private readonly IConfiguration _config;
-
+        private readonly IMapper _mapper;
         public IConfiguration Config => _config;
 
         public IConfiguration Config1 => _config;
 
-        public AuthController(IAuthRepository repo, IConfiguration config)
+        public AuthController(IAuthRepository repo, IConfiguration config, IMapper mapper)
         {
             _repo = repo;
             _config = config;
+            _mapper = mapper;
 
         }
 
@@ -58,7 +60,8 @@ namespace DatingApp.API.Controllers
         {
             //throw new Exception("Computer says no!");
 
-            var userFromRepo = await _repo.Login(userForLoginDto.Username.ToLower(), userForLoginDto.Password);
+            var userFromRepo = await _repo.Login(userForLoginDto.Username.ToLower(),
+                                                 userForLoginDto.Password);
 
             if (userFromRepo == null)
                 return Unauthorized();
@@ -84,12 +87,13 @@ namespace DatingApp.API.Controllers
             var tokenHandler = new JwtSecurityTokenHandler();
 
             var token = tokenHandler.CreateToken(tokenDescriptor); 
+            var user = _mapper.Map<UserForListDto>(userFromRepo);
 
             // return must be an object {}
             return Ok(new {
-                token = tokenHandler.WriteToken(token)
+                token = tokenHandler.WriteToken(token),
+                user
             });
         }
-
     }
 }

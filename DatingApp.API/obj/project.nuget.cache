@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cXvm8exDaWfgDkpkz/EQVkvvVxFsFQhGNl9pNXmEpQ+D0ZCG7JXuFtlzyesd+tg/3BdKY87+4rE3cBQ5YtJhsA==",
+  "dgSpecHash": "XnDLNl7RBs6xXWK3EnqzLJPaKF7j5n2byJEe0Yy/w/UNGHxXb5ERMh5RyIN+OHEj3g1rkE6L3XMciXeIhhEqyg==",
   "success": true,
   "projectFilePath": "D:\\Udemy\\APS and Angular\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis Lau\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Francis Lau\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francis Lau\\.nuget\\packages\\cloudinarydotnet\\1.11.0\\cloudinarydotnet.1.11.0.nupkg.sha512",
     "C:\\Users\\Francis Lau\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",
     "C:\\Users\\Francis Lau\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "C:\\Users\\Francis Lau\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",

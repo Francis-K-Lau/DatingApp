@@ -79,3 +79,4 @@ D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microso
 D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Udemy\APS and Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
